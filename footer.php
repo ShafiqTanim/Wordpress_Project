@@ -7,9 +7,6 @@
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 					</div> <!-- /.widget -->
 					<div class="widget">
-						<?php if ( is_active_sidebar( 'footer-widget-area-1' ) ) : ?>
-							<?php dynamic_sidebar( 'footer-widget-area-1' ); ?>
-						<?php endif; ?>
 					</div> <!-- /.widget -->
 				</div> <!-- /.col-lg-4 -->
 				<div class="col-lg-4 ps-lg-5">

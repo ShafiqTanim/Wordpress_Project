@@ -1,0 +1,5 @@
+tawk.to
+https://dashboard.tawk.to
+
+https://dev-allaboutinfo.pantheonsite.io
+https://dev-allaboutinfo.pantheonsite.io/wp-admin
